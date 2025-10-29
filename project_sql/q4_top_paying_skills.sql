@@ -29,3 +29,4 @@ DevOps automation (Terraform, Kafka, Airflow) — signaling demand for analysts 
 and automation (e.g., cloud and workflow tools like GitLab, Notion, Atlassian) are commanding strong salaries.
 The role of a data analyst is evolving into a full-stack data professional — 
 those integrating AI, cloud, and automation into analytics pipelines will capture the highest future pay growth.
+*/
